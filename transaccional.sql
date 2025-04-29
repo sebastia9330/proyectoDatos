@@ -1,9 +1,9 @@
 --#######################################################TABLA MARCA##########################
 
-CREATE TABLE MARCA(
+CREATE TABLE MARCA_D(
     CODIGO_MARCA NUMBER(2) PRIMARY KEY,
     MARCA VARCHAR(25)
-)
+);
 
 
 INSERT ALL
@@ -96,8 +96,8 @@ SELECT * FROM DUAL;
 
 
 --#################################################TABLA CLIENTE#########################################
-CREATE TABLE CLIENTE(
-    codigo_cliente VARCHAR2(10),
+CREATE TABLE CLIENTE_D(
+    codigo_cliente VARCHAR2(10) PRIMARY KEY,
     cedula NUMBER(12),
     nombre VARCHAR2(30),
     apellido VARCHAR2(30),
@@ -118,13 +118,13 @@ CREATE TABLE PEDIDO_D (
     ESTADO VARCHAR2(15),
     COMENTARIOS VARCHAR2(150),
     CODIGO_CLIENTE VARCHAR2(10),
-    CONSTRAINT FK_CLIENTE_PEDIDO FOREIGN KEY (CODIGO_CLIENTE) REFERENCES CLIENTE (CODIGO_CLIENTE)
+    CONSTRAINT FK_CLIENTE_PEDIDO FOREIGN KEY (CODIGO_CLIENTE) REFERENCES CLIENTE_D (CODIGO_CLIENTE)
 );
 
 
 --#############################################TABLA PAGO##################################################
 CREATE TABLE PAGO_D (
-    ID_TRANSACCION VARCHAR(10),
+    ID_TRANSACCION VARCHAR(10) PRIMARY KEY,
     CODIGO_CLIENTE VARCHAR(10),
     FORMA_PAGO VARCHAR(40),
     FECHA_PAGO DATE,
