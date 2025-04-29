@@ -1,0 +1,15 @@
+id_transaccion;codigo_cliente;forma_pago;fecha_pago;total;;
+tra0001;cli001;efectivo;30/01/2025;350000;;
+tra0002;cli002;electronico;7/02/2025;375000;;
+tra0003;cli004;efectivo;13/02/2025;400000;;
+tra0004;cli005;electronico;22/02/2025;425000;;
+tra0005;cli007;efectivo;28/02/2025;450000;;
+tra0006;cli008;electronico;6/03/2025;475000;;
+tra0007;cli010;efectivo;11/03/2025;500000;;
+tra0008;cli011;electronico;20/03/2025;525000;;
+tra0009;cli013;efectivo;26/03/2025;550000;;
+tra0010;cli014;electronico;2/04/2025;575000;;
+tra0011;cli016;efectivo;3/04/2025;600000;;
+tra0012;cli017;electronico;12/04/2025;625000;;
+tra0013;cli019;efectivo;18/04/2025;650000;;
+tra0014;cli020;electronico;27/04/2025;675000;;

@@ -1,0 +1,21 @@
+codigo_cliente;cedula;nombre;apellido;telefono;direccion;ciudad;codigo_empleado
+cli001;1004568731;Alejandro;Rodríguez;3001234567;Calle 12 #45-67;Bogotá;emp001
+cli002;1020345982;Camila;Martínez;3012345678;Carrera 7 #89-23;Medellín;emp002
+cli003;1035896274;Diego;González;3023456789;Calle 45A #23-90;Cali;emp003
+cli004;1047325609;Mariana;García;3044567890;Carrera 13 #56-78;Barranquilla;emp004
+cli005;1056893712;Sebastián;López;3055678901;Avenida 68 #120-45;Bogotá;emp005
+cli006;1065342890;Valentina;Pérez;3106789012;Calle 9 Sur #15-34;Medellín;emp006
+cli007;1078234561;Juan;Sánchez;3117890123;Carrera 50 #30-60;Cartagena;emp007
+cli008;1082391478;Laura;Ramírez;3128901234;Calle 100 #25-50;Bogotá;emp008
+cli009;1094568120;Andrés;Torres;3139012345;Carrera 80 #65-43;Bucaramanga;emp009
+cli010;1103659274;Daniela;Gómez;3140123456;Calle 72 #10-20;Santa Marta;emp010
+cli011;1112743859;Mateo;Díaz;3151234567;Carrera 32 #44-21;Pereira;emp001
+cli012;1123859402;Juliana;Moreno;3162345678;Calle 26 #70-12;Bogotá;emp002
+cli013;1134092318;Nicolás;Castro;3173456789;Carrera 60 #17-80;Manizales;emp003
+cli014;1145786430;Sara;Jiménez;3184567890;Calle 50 #22-40;Armenia;emp004
+cli015;1154862079;Felipe;Álvarez;3195678901;Carrera 12A #34-56;Neiva;emp005
+cli016;1166735903;Isabella;Romero;3206789012;Calle 15 #60-13;Cúcuta;emp006
+cli017;1172843190;Tomás;Vargas;3217890123;Avenida 30 de Agosto #20-15;Pereira;emp007
+cli018;1184394278;Sofía;Herrera;3228901234;Calle 29 #45-78;Ibagué;emp008
+cli019;1195628374;Santiago;Ríos;3239012345;Carrera 40 #20-70;Popayán;emp009
+cli020;1209438516;Ana María;Mendoza;3240123456;Calle 25B #12-34;Pasto;emp010

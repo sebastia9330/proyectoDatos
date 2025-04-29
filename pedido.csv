@@ -1,0 +1,61 @@
+codigo_pedido;fecha_pedido;fecha_esperada;fecha_entrega;estado;comentarios;codigo_cliente
+ped0001;1/01/2025;31/01/2025;30/01/2025;entregado;entregado dentro de la fecha prudente;cli001
+ped0002;5/01/2025;4/02/2025;7/02/2025;entregado;entregado dentro de la fecha prudente;cli002
+ped0003;10/01/2025;9/02/2025;;pendiente;pendiente por entrega;cli003
+ped0004;15/01/2025;14/02/2025;13/02/2025;entregado;entregado dentro de la fecha prudente;cli004
+ped0005;20/01/2025;19/02/2025;22/02/2025;entregado;entregado dentro de la fecha prudente;cli005
+ped0006;25/01/2025;24/02/2025;;pendiente;pendiente por entrega;cli006
+ped0007;30/01/2025;1/03/2025;28/02/2025;entregado;entregado dentro de la fecha prudente;cli007
+ped0008;1/02/2025;3/03/2025;6/03/2025;entregado;entregado dentro de la fecha prudente;cli008
+ped0009;5/02/2025;7/03/2025;;pendiente;pendiente por entrega;cli009
+ped0010;10/02/2025;12/03/2025;11/03/2025;entregado;entregado dentro de la fecha prudente;cli010
+ped0011;15/02/2025;17/03/2025;20/03/2025;entregado;entregado dentro de la fecha prudente;cli011
+ped0012;20/02/2025;22/03/2025;;pendiente;pendiente por entrega;cli012
+ped0013;25/02/2025;27/03/2025;26/03/2025;entregado;entregado dentro de la fecha prudente;cli013
+ped0014;28/02/2025;30/03/2025;2/04/2025;entregado;entregado dentro de la fecha prudente;cli014
+ped0015;1/03/2025;31/03/2025;;pendiente;pendiente por entrega;cli015
+ped0016;5/03/2025;4/04/2025;3/04/2025;entregado;entregado dentro de la fecha prudente;cli016
+ped0017;10/03/2025;9/04/2025;12/04/2025;entregado;entregado dentro de la fecha prudente;cli017
+ped0018;15/03/2025;14/04/2025;;pendiente;pendiente por entrega;cli018
+ped0019;20/03/2025;19/04/2025;18/04/2025;entregado;entregado dentro de la fecha prudente;cli019
+ped0020;25/03/2025;24/04/2025;27/04/2025;entregado;entregado dentro de la fecha prudente;cli020
+ped0021;30/03/2025;29/04/2025;;pendiente;pendiente por entrega;cli001
+ped0022;1/04/2025;1/05/2025;;pendiente;pendiente por entrega;cli002
+ped0023;5/04/2025;5/05/2025;;pendiente;pendiente por entrega;cli003
+ped0024;10/04/2025;10/05/2025;;pendiente;pendiente por entrega;cli004
+ped0025;15/04/2025;15/05/2025;;pendiente;pendiente por entrega;cli005
+ped0026;20/04/2025;20/05/2025;;pendiente;pendiente por entrega;cli006
+ped0027;25/04/2025;25/05/2025;;pendiente;pendiente por entrega;cli007
+ped0028;30/04/2025;30/05/2025;;pendiente;pendiente por entrega;cli008
+ped0029;1/05/2025;31/05/2025;;pendiente;pendiente por entrega;cli009
+ped0030;5/05/2025;4/06/2025;;pendiente;pendiente por entrega;cli010
+ped0031;10/05/2025;9/06/2025;;pendiente;pendiente por entrega;cli011
+ped0032;15/05/2025;14/06/2025;;pendiente;pendiente por entrega;cli012
+ped0033;20/05/2025;19/06/2025;;pendiente;pendiente por entrega;cli013
+ped0034;25/05/2025;24/06/2025;;pendiente;pendiente por entrega;cli014
+ped0035;30/05/2025;29/06/2025;;pendiente;pendiente por entrega;cli015
+ped0036;1/06/2025;1/07/2025;;pendiente;pendiente por entrega;cli016
+ped0037;5/06/2025;5/07/2025;;pendiente;pendiente por entrega;cli017
+ped0038;10/06/2025;10/07/2025;;pendiente;pendiente por entrega;cli018
+ped0039;15/06/2025;15/07/2025;;pendiente;pendiente por entrega;cli019
+ped0040;20/06/2025;20/07/2025;;pendiente;pendiente por entrega;cli020
+ped0041;25/06/2025;25/07/2025;;pendiente;pendiente por entrega;cli001
+ped0042;30/06/2025;30/07/2025;;pendiente;pendiente por entrega;cli002
+ped0043;1/07/2025;31/07/2025;;pendiente;pendiente por entrega;cli003
+ped0044;5/07/2025;4/08/2025;;pendiente;pendiente por entrega;cli004
+ped0045;10/07/2025;9/08/2025;;pendiente;pendiente por entrega;cli005
+ped0046;15/07/2025;14/08/2025;;pendiente;pendiente por entrega;cli006
+ped0047;20/07/2025;19/08/2025;;pendiente;pendiente por entrega;cli007
+ped0048;25/07/2025;24/08/2025;;pendiente;pendiente por entrega;cli008
+ped0049;30/07/2025;29/08/2025;;pendiente;pendiente por entrega;cli009
+ped0050;1/08/2025;31/08/2025;;pendiente;pendiente por entrega;cli010
+ped0051;5/08/2025;4/09/2025;;pendiente;pendiente por entrega;cli011
+ped0052;10/08/2025;9/09/2025;;pendiente;pendiente por entrega;cli012
+ped0053;15/08/2025;14/09/2025;;pendiente;pendiente por entrega;cli013
+ped0054;20/08/2025;19/09/2025;;pendiente;pendiente por entrega;cli014
+ped0055;25/08/2025;24/09/2025;;pendiente;pendiente por entrega;cli015
+ped0056;30/08/2025;29/09/2025;;pendiente;pendiente por entrega;cli016
+ped0057;1/09/2025;1/10/2025;;pendiente;pendiente por entrega;cli017
+ped0058;5/09/2025;5/10/2025;;pendiente;pendiente por entrega;cli018
+ped0059;10/09/2025;10/10/2025;;pendiente;pendiente por entrega;cli019
+ped0060;15/09/2025;15/10/2025;;pendiente;pendiente por entrega;cli020
