@@ -128,8 +128,8 @@ NOCYCLE;
 
 
 --##########################################################CODIGO DIM TIEMPO ##########################
-CREATE TABLE DIM_TIEMPO(
-    SK_NUM_DIM_TIEMPO NUMBER(7),
+CREATE TABLE DIM_TIEMPO_D(
+    SK_NUM_DIM_TIEMPO_D NUMBER(7),
     NUM_ID_FECHA NUMBER(8),
     DT_FECHA DATE,
     NUM_AÑO NUMBER(4),
